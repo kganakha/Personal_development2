@@ -15,7 +15,7 @@
 	<a href = "insert">登録</a>
 	<a href = "search">確認</a>
 	<a href = "questionTop">出題</a><br>
-	<a href = "idChange">ID/passを変更する</a><br>
+	<a href = "idChange">ID/passを変更する?</a><br>
 	<a href  = "logout">ログアウト</a>
 </body>
 </html>
